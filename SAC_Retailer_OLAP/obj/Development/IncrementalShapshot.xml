@@ -1,0 +1,89 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>SAC_Retailer_OLAP</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>cZ9Xw7OKzLLvl4xHrdQUxY8Cp4A=15/11/2026 07:50:2715/11/2026 07:50:27</TimeStamp>
+        <ID>
+          <String>SAC_Retailer_DW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>fV1/z1mRU/cIrOyrFqZ774yD3XI=17/11/2026 09:15:5115/11/2026 07:53:46</TimeStamp>
+        <ID>
+          <String>DW SAC Retailer</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>1Kv3ldAvy3AbfvMFHIgL9uWLdcw=15/11/2026 08:07:0615/11/2026 08:07:06</TimeStamp>
+        <ID>
+          <String>Dim Cliente</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>yBTIudmCFz0roN3ODfnOKfK+bII=15/11/2026 08:38:4415/11/2026 08:07:06</TimeStamp>
+        <ID>
+          <String>Dim Producto</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>RyqKFHDZB5FYqRtbak4+Fk7OBAM=15/11/2026 08:43:1515/11/2026 08:07:06</TimeStamp>
+        <ID>
+          <String>Dim Geografia</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>2VsL1l4BeSAb2pOjxEPuKGYmJpA=15/11/2026 08:07:0615/11/2026 08:07:06</TimeStamp>
+        <ID>
+          <String>Dim Envio</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>gtNsjLtrAr1B2CY8tAZDyNgE758=17/11/2026 09:17:3215/11/2026 08:07:06</TimeStamp>
+        <ID>
+          <String>Dim Tiempo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>fJEZT/OEJHhbH0/9At6eGbmS7NE=17/11/2026 09:36:4315/11/2026 08:07:06wJT/+8d6DWOMlarqxI87nVX0zqA=15/11/2026 08:07:0615/11/2026 08:07:06</TimeStamp>
+        <ID>
+          <String>DW SAC Retailer</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>hWNRvZLXSM3yTfMlH4eoEsv9SJk=15/11/2026 07:39:5815/11/2026 07:39:57</TimeStamp>
+      <ID>
+        <String>SAC_Retailer_OLAP</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2026-11-18T03:37:31.733333Z</LastDeployed>
+</DeploymentSnapshot>

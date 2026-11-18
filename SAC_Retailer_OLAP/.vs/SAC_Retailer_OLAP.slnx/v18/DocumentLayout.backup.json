@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A064186-6805-5514-20DE-28B236630546}|SAC_Retailer_OLAP.dwproj|C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\DW SAC Retailer.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{4A064186-6805-5514-20DE-28B236630546}|SAC_Retailer_OLAP.dwproj|solutionrelative:DW SAC Retailer.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A064186-6805-5514-20DE-28B236630546}|SAC_Retailer_OLAP.dwproj|C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\Dim Tiempo.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{4A064186-6805-5514-20DE-28B236630546}|SAC_Retailer_OLAP.dwproj|solutionrelative:Dim Tiempo.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A064186-6805-5514-20DE-28B236630546}|SAC_Retailer_OLAP.dwproj|C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\DW SAC Retailer.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{4A064186-6805-5514-20DE-28B236630546}|SAC_Retailer_OLAP.dwproj|solutionrelative:DW SAC Retailer.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Tiempo.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\Dim Tiempo.dim",
+              "RelativeDocumentMoniker": "Dim Tiempo.dim",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\Dim Tiempo.dim [Dise\u00F1o]",
+              "RelativeToolTip": "Dim Tiempo.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-18T03:16:10.888Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DW SAC Retailer.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\DW SAC Retailer.dsv",
+              "RelativeDocumentMoniker": "DW SAC Retailer.dsv",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\DW SAC Retailer.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "DW SAC Retailer.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-18T03:12:39.228Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DW SAC Retailer.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\DW SAC Retailer.cube",
+              "RelativeDocumentMoniker": "DW SAC Retailer.cube",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive - Universidad Don Bosco\\Ciclo 02 - 2026\\Datawarehouse y Miner\u00EDa de Datos\\DMD941 - Fase 2 del proyecto\\SAC_Retailer_OLAP\\DW SAC Retailer.cube [Dise\u00F1o]",
+              "RelativeToolTip": "DW SAC Retailer.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-16T02:07:06.909Z",
+              "EditorCaption": " [Dise\u00F1o]",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
